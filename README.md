@@ -31,8 +31,9 @@ Skills: React | Angular | Vue | TypeScript | Flutter | HTML/CSS | Node | JavaScr
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiVinodK&show_icons=true)  
  -->
-![GitHub metrics](https://metrics.lecoq.io/SaiVinodK)  
-
+<!-- ![GitHub metrics](https://metrics.lecoq.io/SaiVinodK)  
+ -->
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaiVinodK)  
  -->
-![Profile views](https://gpvc.arturio.dev/SaiVinodK)  
+<!-- ![Profile views](https://gpvc.arturio.dev/SaiVinodK)  
+ -->
