@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 #### You can refer me as Vinod
 ![You can refer me as Vinod](https://raw.githubusercontent.com/KSaiVinod/KSaiVinod/main/banner.png)
 
-Vignanite • Engineer • Austere • Practical • Geek • Coder • Designer • Web Developer • Nocturnal • Chocoholic • Bulleteer • Ex-TCS'er • Actifian
 
 Skills: React | Angular | Vue | TypeScript | Flutter | HTML/CSS | Node | JavaScript
 
@@ -30,10 +29,10 @@ Skills: React | Angular | Vue | TypeScript | Flutter | HTML/CSS | Node | JavaScr
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaiVinodK)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiVinodK&show_icons=true)  
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiVinodK&show_icons=true)  
+ -->
 ![GitHub metrics](https://metrics.lecoq.io/SaiVinodK)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaiVinodK)  
-
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaiVinodK)  
+ -->
 ![Profile views](https://gpvc.arturio.dev/SaiVinodK)  
