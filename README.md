@@ -221,8 +221,4 @@ An expense manager inspired by the Japanese **Kakeibo** philosophy. Tracks spend
 - **LinkedIn:** [linkedin.com/in/saivinodk](https://linkedin.com/in/saivinodk)
 
 ---
-
-## 🏁 Closing Note
-
 **© 2026 Sai Vinod Konakanchi**  
-Made with ⚡
