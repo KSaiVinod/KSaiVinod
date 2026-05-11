@@ -1,39 +1,228 @@
-<!-- - 👋 Hi, I’m @KSaiVinod
-- 💼 I'm currently working as a software developer at @persistentsystems 
-- 👀 I’m interested in developing seemless UI interactions
-- 🌱 I’m currently learning MERN Stack
-- 📫 Reachme @ saivinod440@gmail.com
+# 🎮 Sai Vinod Konakanchi
 
-<p align="center">
-  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KSaiVinod&show_icons=true&theme=radical">
-</p>
-<!---
-KSaiVinod/KSaiVinod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> **Fullstack Mage · Level 8**  
+> **8+ Years of Experience**
 
- 
-### Hi there 👋, My name is Sai Vinod
-#### You can refer me as Vinod
-![You can refer me as Vinod](https://raw.githubusercontent.com/KSaiVinod/KSaiVinod/main/banner.png)
+Welcome to my interactive world. A fullstack mage specialising in **MEAN/MERN sorcery** — building real-time systems, mobile SDKs, and developer tools across the realms of **fintech, SaaS, and cloud infrastructure**.
 
+---
 
-Skills: React | Angular | Vue | TypeScript | Flutter | HTML/CSS | Node | JavaScript
+## 🧭 Player Profile
 
-- 🔭 I’m currently working on building an expense manager 
-- 🌱 I’m currently learning Flutter and React Native 
-- 📫 How to reach me: saivinod440@gmail.com 
+- **Name:** Sai Vinod Konakanchi
+- **Class:** Fullstack Developer
+- **Level:** 8
+- **Base:** Bengaluru, India
+- **Current Quest:** Software Development Engineer @ FYNO
+- **Exploring:** LLM / React Native
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaiVinodK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saivinodk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saivinodk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://www.google.com/search?q=sai+vinod+konakanchi)  
+## 📜 Quest Log
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaiVinodK)](https://github.com/ryo-ma/github-profile-trophy)
+### ⚡ FYNO
+**Software Development Engineer · Bengaluru**  
+**Aug 2022 – Present**  
+**Status:** Active
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiVinodK&show_icons=true)  
- -->
-<!-- ![GitHub metrics](https://metrics.lecoq.io/SaiVinodK)  
- -->
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaiVinodK)  
- -->
-<!-- ![Profile views](https://gpvc.arturio.dev/SaiVinodK)  
- -->
+- Built a socket-based notification system guaranteeing **100% message deliverability**
+- Developed **Mobile SDKs** with custom push rendering, improving delivery rate by **30%**
+- Deep-integrated **WhatsApp** & **SMS template management** for multiple providers
+- Generalized communication provider APIs with **Handlebars** for rapid integrations
+- Built expert-level knowledge of **WhatsApp** and **RCS APIs** across providers
+
+**XP Earned:** +1400 XP
+
+---
+
+### 🔍 Hirect India
+**Senior Software Developer · Bengaluru**  
+**Jun 2022 – Aug 2022**  
+**Status:** Completed
+
+- Designed REST endpoints for **jobs** & **candidate search** with filtering and pagination
+- Revamped website performance — load time reduced from **8–12s to 0.8–1.3s**
+- Improved **Core Web Vitals by 38%**
+
+**XP Earned:** +300 XP
+
+---
+
+### 📊 FactSet Research Systems
+**Software Engineer III · Hyderabad**  
+**Apr 2021 – Jun 2022**  
+**Status:** Completed
+
+- Rebuilt application UIs to **W3C accessibility standards**
+- Delivered financial charts in **Vue + ChartIQ** with live data streams for thousands of clients
+- Implemented technical studies for charting & advanced financial analysis
+
+**XP Earned:** +900 XP
+
+---
+
+### ☁️ Actifio (Google Cloud)
+**Lead Software Engineer · Hyderabad**  
+**Jun 2019 – Apr 2021**  
+**Status:** Completed
+
+- Built a reusable lazy-load data grid with **search, sort & multi-select**, adopted across the app
+- Developed on-demand backup for **Generic & SAP Apps**
+- Features now live on **Google Cloud Backup & DR**
+
+**XP Earned:** +1200 XP
+
+---
+
+### 🏦 TCS · ICICI Bank
+**Systems Engineer · Hyderabad**  
+**Jul 2017 – Jun 2019**  
+**Status:** Completed
+
+- Developed **UPI** & **UPI 2.0 (Quickpay by ICICI)** alongside NPCI
+- Implemented **Video KYC** & **Quick Remittance** on Money2India Europe
+- Introduced **offline-first mode** for RIBG field app via SQLite sync
+
+**XP Earned:** +1200 XP
+
+---
+
+### 🌱 Darwinbox
+**Frontend Intern · Hyderabad**  
+**Aug 2016 – Jan 2017**  
+**Status:** Completed
+
+- Built auto-invoicing module for **pay-as-you-go SaaS billing**
+- Developed and launched the initial **Darwinbox marketing website**
+
+**XP Earned:** +500 XP
+
+---
+
+## 🗝 Treasure Vault
+
+### 🪝 OWNHOOK
+**Developer Tool · SaaS**  
+**2025 – Apr 2026**
+
+The all-in-one webhook testing platform. Create unlimited personal endpoints, inspect payloads in real-time, forward hooks, define custom responders, and mock entire APIs — all without restrictions.
+
+**Loot / Stack:**
+- WebSockets
+- Mock API
+- Real-time Streaming
+- Node.js
+- Express
+- MongoDB
+
+**Status:** Completed  
+**Reward:** +800 XP
+
+---
+
+### 📡 MESHCALL
+**P2P · WebRTC App**  
+**2024 – Jun 2025**
+
+A calling & messaging app for congested environments — concerts, crowd gatherings, and weak-signal zones. Peers connect directly via **WebRTC mesh topology** with minimal infrastructure dependency.
+
+**Loot / Stack:**
+- WebRTC
+- P2P Mesh
+- Offline-first
+- Signaling Server
+- ICE / STUN / TURN
+- JavaScript
+
+**Status:** Completed  
+**Reward:** +900 XP
+
+---
+
+### 🔗 BIOLINKS
+**Open Source · Link Platform**  
+**Aug 2020**
+
+A full-featured open-source Linktree alternative with complete UI customization — glassmorphism, neumorphism, and pop themes. Includes live Spotify & YouTube embeds with rich stats.
+
+**Loot / Stack:**
+- Open Source
+- Spotify API
+- YouTube Data API
+- CSS Themes
+- Vue.js
+- Click Analytics
+
+**Status:** Archived  
+**Reward:** +600 XP
+
+---
+
+### 💴 KAKEIBO MM
+**Fintech · Expense Manager**  
+**Aug 2021 – Feb 2022**
+
+An expense manager inspired by the Japanese **Kakeibo** philosophy. Tracks spending mindfully with smart reminders for recurring bills and pattern-based insights.
+
+**Loot / Stack:**
+- React
+- Node.js
+- Express
+- MongoDB
+- Push Notifications
+- Budgeting Logic
+
+**Status:** Completed  
+**Reward:** +500 XP
+
+---
+
+## ⚗ Skill Tree
+
+### ⭐ Legendary
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Vue / Nuxt
+
+### 🔮 Epic
+- WebRTC
+- WebSockets
+- Mobile SDK Development
+- WhatsApp API
+- RCS API
+- Angular
+
+### 💎 Rare
+- MongoDB
+- PostgreSQL
+- MySQL
+- Python
+- Tailwind CSS
+- ChartIQ
+- Express
+- LLM / RAG
+
+### ⚔ Common
+- Git
+- Postman
+- Jira
+- Bash
+- Java
+- PHP
+
+---
+
+## ⚔ Guild Hall
+
+- **Email:** [saivinod440@gmail.com](mailto:saivinod440@gmail.com)
+- **GitHub:** [github.com/KSaiVinod](https://github.com/KSaiVinod)
+- **LinkedIn:** [linkedin.com/in/saivinodk](https://linkedin.com/in/saivinodk)
+
+---
+
+## 🏁 Closing Note
+
+**© 2026 Sai Vinod Konakanchi**  
+Made with ⚡
